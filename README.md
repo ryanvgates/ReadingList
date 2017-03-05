@@ -12,3 +12,4 @@ This is my readinglist
 * Building the Empire State By Carol Willis (Editor)
 * Antifragile: Things That Gain from Disorder (Incerto) by Nassim Nicholas Taleb
 * Theory of Constraints by Eliyahu M. Goldratt
+* Phoenix Project: A Novel about IT, DevOps and Helping your business Win by Gene Kim, Kevin Behr and George Spafford
