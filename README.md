@@ -13,3 +13,4 @@ This is my readinglist
 * Antifragile: Things That Gain from Disorder (Incerto) by Nassim Nicholas Taleb
 * Theory of Constraints by Eliyahu M. Goldratt
 * Phoenix Project: A Novel about IT, DevOps and Helping your business Win by Gene Kim, Kevin Behr and George Spafford
+* Pedagogy of the Oppressed by Paulo Freire
