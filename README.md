@@ -14,3 +14,4 @@ This is my readinglist
 * Theory of Constraints by Eliyahu M. Goldratt
 * Phoenix Project: A Novel about IT, DevOps and Helping your business Win by Gene Kim, Kevin Behr and George Spafford
 * Pedagogy of the Oppressed by Paulo Freire
+* The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox
