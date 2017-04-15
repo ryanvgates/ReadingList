@@ -15,3 +15,6 @@ This is my readinglist
 * Phoenix Project: A Novel about IT, DevOps and Helping your business Win by Gene Kim, Kevin Behr and George Spafford
 * Pedagogy of the Oppressed by Paulo Freire
 * The Goal: A Process of Ongoing Improvement by Eliyahu M. Goldratt, Jeff Cox
+* Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco, Tim Lister
+* Understanding A3 Thinking: A Critical Component of Toyota's PDCA Management System 1st Edition by Durward K. Sobek II (Author), Art Smalley (Author)
+* 
