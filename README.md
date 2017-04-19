@@ -19,3 +19,4 @@ This is my readinglist
 * The Monk and the Riddle: The Art of Creating a Life While Making a Living by Randy Komisar
 * It's Not Luck Paperback by Eliyahu M Goldratt
 * Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother
+* Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble, David Farley
