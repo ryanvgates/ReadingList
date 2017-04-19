@@ -22,4 +22,4 @@ This is my readinglist
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble, David Farley
 * The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps by Kevin Behr and Gene Kim
 * Personal Kanban: Mapping Work | Navigating Life by Jim Benson, Tonianne DeMaria Barry
-* 
+* Kanban: Successful Evolutionary Change for Your Technology Business by David J. Anderson, Donald G Reinertsen
