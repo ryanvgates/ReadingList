@@ -18,3 +18,4 @@ This is my readinglist
 * Understanding A3 Thinking: A Critical Component of Toyota's PDCA Management System 1st Edition by Durward K. Sobek II (Author), Art Smalley (Author)
 * The Monk and the Riddle: The Art of Creating a Life While Making a Living by Randy Komisar
 * It's Not Luck Paperback by Eliyahu M Goldratt
+* Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother
