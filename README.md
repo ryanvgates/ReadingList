@@ -20,3 +20,4 @@ This is my readinglist
 * It's Not Luck Paperback by Eliyahu M Goldratt
 * Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble, David Farley
+* The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps by Kevin Behr and Gene Kim
