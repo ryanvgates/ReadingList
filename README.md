@@ -23,3 +23,4 @@ This is my readinglist
 * The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps by Kevin Behr and Gene Kim
 * Personal Kanban: Mapping Work | Navigating Life by Jim Benson, Tonianne DeMaria Barry
 * Kanban: Successful Evolutionary Change for Your Technology Business by David J. Anderson, Donald G Reinertsen
+* The Fasting Cure by Upton Sinclair 
