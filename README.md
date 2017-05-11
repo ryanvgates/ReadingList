@@ -24,3 +24,4 @@ This is my readinglist
 * Personal Kanban: Mapping Work | Navigating Life by Jim Benson, Tonianne DeMaria Barry
 * Kanban: Successful Evolutionary Change for Your Technology Business by David J. Anderson, Donald G Reinertsen
 * The Fasting Cure by Upton Sinclair 
+* The Experience Economy by B. Joseph Pine II, James H. Gilmore
