@@ -26,3 +26,4 @@ This is my readinglist
 * The Fasting Cure by Upton Sinclair 
 * The Experience Economy by B. Joseph Pine II, James H. Gilmore
 * Algorithms to Live By: The Computer Science of Human Decisions ([Audible Audiobook](https://www.amazon.com/gp/product/B01D24NAL6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01D24NAL6&linkCode=as2&tag=out0b4b-20&linkId=5d96ca79e55f2cb825bc5a2e5b6b5bb4]))
+* Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business by Patrick Lencioni
