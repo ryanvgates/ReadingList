@@ -30,3 +30,4 @@ This is my readinglist
 * Thinking, Fast and Slow by Daniel Kahneman
 * Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns Ph.D., Linda Rising Ph.D.
 * The Lean Startup by Eric Ries
+* Color of Man by Robert Cohen
