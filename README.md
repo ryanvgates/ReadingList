@@ -17,7 +17,7 @@ This is my readinglist
 * Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco, Tim Lister
 * Understanding A3 Thinking: A Critical Component of Toyota's PDCA Management System 1st Edition by Durward K. Sobek II (Author), Art Smalley (Author)
 * The Monk and the Riddle: The Art of Creating a Life While Making a Living by Randy Komisar
-* It's Not Luck Paperback by Eliyahu M Goldratt
+* It's Not Luck by Eliyahu M Goldratt
 * Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble, David Farley
 * The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps by Kevin Behr and Gene Kim
@@ -27,3 +27,6 @@ This is my readinglist
 * The Experience Economy by B. Joseph Pine II, James H. Gilmore
 * Algorithms to Live By: The Computer Science of Human Decisions ([Audible Audiobook](https://www.amazon.com/gp/product/B01D24NAL6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01D24NAL6&linkCode=as2&tag=out0b4b-20&linkId=5d96ca79e55f2cb825bc5a2e5b6b5bb4]))
 * Death by Meeting: A Leadership Fable...About Solving the Most Painful Problem in Business by Patrick Lencioni
+* Thinking, Fast and Slow by Daniel Kahneman
+* Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns Ph.D., Linda Rising Ph.D.
+* The Lean Startup by Eric Ries
