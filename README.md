@@ -31,3 +31,4 @@ This is my readinglist
 * Fearless Change: Patterns for Introducing New Ideas by Mary Lynn Manns Ph.D., Linda Rising Ph.D.
 * The Lean Startup by Eric Ries
 * Color of Man by Robert Cohen
+* The Structure of Scientific Revolutions by Thomas S. Kuhn
