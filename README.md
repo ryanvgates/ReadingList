@@ -33,3 +33,4 @@ This is my readinglist
 * Color of Man by Robert Cohen
 * The Structure of Scientific Revolutions by Thomas S. Kuhn
 * The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
+* Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek
