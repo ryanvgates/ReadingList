@@ -32,6 +32,6 @@ This is my readinglist
 * The Lean Startup by Eric Ries
 * Color of Man by Robert Cohen
 * The Structure of Scientific Revolutions by Thomas S. Kuhn
-* The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change by Camille Fournier
 * Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek
 * Built to Last: Successful Habits of Visionary Companies by Jim Collins, Jerry I. Porras
+* The Checklist Manifesto: How to Get Things Right by Atul Gawande
