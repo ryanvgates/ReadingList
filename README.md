@@ -1,6 +1,8 @@
 # ReadingList
 This is my readinglist
 
+* The High Cost of Free Parking by Donald Shoup
+* ReThinking a Lot The Design and Culture of Parking By Eran Ben-Joseph
 * You were born rich by Bob Proctor
 * Focal Point by Brian Tracy
 * The handbook to higher consciousness by Ken Keyes Jr.
