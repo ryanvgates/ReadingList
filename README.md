@@ -1,5 +1,7 @@
 # ReadingList
-This is my readinglist
+This is my reading list
+
+## To Read
 
 * The High Cost of Free Parking by Donald Shoup
 * ReThinking a Lot The Design and Culture of Parking By Eran Ben-Joseph
@@ -38,3 +40,9 @@ This is my readinglist
 * Built to Last: Successful Habits of Visionary Companies by Jim Collins, Jerry I. Porras
 * The Checklist Manifesto: How to Get Things Right by Atul Gawande
 * Everybody Lies: Big Data, New Data, and What the internet can tell us about who we really are ([Audible Audiobook](https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/B06XCYD5KG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=))
+
+## Have Read
+
+* The Measure by Nikki Erlick
+* Release It! by Michael T. Nygard
+* The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford
